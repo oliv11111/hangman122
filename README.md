@@ -57,11 +57,11 @@ The project follows a simple file structure:
 ## Milestones
 The project is organized into five milestones:
 
-1. Milestone 1: Enviroment set-up (git repo, etc...)
-2. Milestone 2: Create the variables for the game (located in `milestone_2.py`).
-3. Milestone 3: Check if guessed character is in the word
-4. Milestone 4: Create the Game class
-5. Milestone 5: Putting it all together
+1. <span style='color: green'>Milestone 1: Enviroment set-up (git repo, etc...)
+2. <span style='color: green'>Milestone 2: Create the variables for the game (located in `milestone_2.py`).
+3. <span style='color: green'>Milestone 3: Check if guessed character is in the word (located in `milestone_2.py`)
+4. <span style='color: red'>Milestone 4: Create the Game class
+5. <span style='color: red'>Milestone 5: Putting it all together
 
 Each milestone builds upon the previous one, providing a structured learning path.
 
