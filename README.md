@@ -46,7 +46,7 @@ To run the Hangman game, follow these installation steps:
 ## Usage
 Once the game is installed, follow these instructions to play the Hangman game:
 
-1. Run the Milestone 2 script as mentioned in the installation instructions.
+1. Run the Milestone 5 script as mentioned in the installation instructions.
 2. Follow the on-screen instructions
 
 ## File Structure
