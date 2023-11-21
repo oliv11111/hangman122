@@ -38,9 +38,9 @@ To run the Hangman game, follow these installation steps:
     cd hangman122
     ```
 
-3. Run the game script for Milestone 2. NOTE: This is only for the current stage in development
+3. Run the game script for Milestone 4. NOTE: This is only for the current stage in development
     ```bash
-    python milestone_2.py
+    python milestone_4.py
     ```
 
 ## Usage
@@ -51,7 +51,8 @@ Once the game is installed, follow these instructions to play the Hangman game:
 
 ## File Structure
 The project follows a simple file structure:
-- `milestone_2.py`: The current script containing the Milestone 2 implementation of the Hangman game.
+- `milestone_2.py`: The old script containing the Milestone 2 implementation of the Hangman game.
+- 'milestone_4.py': The current implementation of the Hangman game.
 - `README.md`: Documentation file for the project.
 
 ## Milestones
@@ -60,7 +61,7 @@ The project is organized into five milestones:
 1. <span style='color: green'>Milestone 1: Enviroment set-up (git repo, etc...)
 2. <span style='color: green'>Milestone 2: Create the variables for the game (located in `milestone_2.py`).
 3. <span style='color: green'>Milestone 3: Check if guessed character is in the word (located in `milestone_2.py`)
-4. <span style='color: red'>Milestone 4: Create the Game class
+4. <span style='color: red'>Milestone 4: Create the Game class (located in 'milestone_4.py)
 5. <span style='color: red'>Milestone 5: Putting it all together
 
 Each milestone builds upon the previous one, providing a structured learning path.
